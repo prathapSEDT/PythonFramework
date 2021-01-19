@@ -1,0 +1,5 @@
+[BROWSER_DETAILS]
+EXECUTE=CHROME
+
+[APPLICATION_DETAILS]
+APP_URL=http://automationpractice.com/index.php
